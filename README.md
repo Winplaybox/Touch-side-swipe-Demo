@@ -34,7 +34,7 @@ Touch side swipe - widget-library for mobile navbar
 <br>
 <hr>
 <p><b>The MIT License (MIT)</b></p>
-<p>Copyright (c) 2018 Mititelu Nick (aka freetitelu)</p>
+<p>Copyright (c) 2018 Winplaybox</p>
 <p>Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
